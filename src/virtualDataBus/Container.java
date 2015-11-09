@@ -1,14 +1,14 @@
-package PP.Framework.virtualDataBus;
+package virtualDataBus;
 
-import PP.Framework.busInterface.*;
+import busInterface.*;
 
 public class Container implements Engine_Out, DriverInput_Out, Gearbox_Out, Wheels_Out, Public_In{
 	
 	public enum ShiftLeverPosition {Parking, Reverse, Neutral, Break}
 	
-	public static PP.Framework.virtualDataBus.Container getInstance(){
+	public static virtualDataBus.Container getInstance(){
 		if(instance == null)
-			instance = new PP.Framework.virtualDataBus.Container();
+			instance = new virtualDataBus.Container();
 		return instance;
 	}
 
@@ -336,7 +336,7 @@ public class Container implements Engine_Out, DriverInput_Out, Gearbox_Out, Whee
 	
 	
 	
-	private static PP.Framework.virtualDataBus.Container instance = null;
+	private static virtualDataBus.Container instance = null;
 	
 	
 	private Container(){

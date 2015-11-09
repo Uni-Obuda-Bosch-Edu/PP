@@ -3,10 +3,9 @@ package PP.Test;
 import static org.junit.Assert.*;
 
 import PP.Core.VerticalCPS;
-import PP.Core.VerticalScanner;
 import PP.Core.Integration;
 import org.junit.Test;
-import PP.Framework.virtualDataBus.*;
+import virtualDataBus.*;
 
 public class IntegrationTest {
     private final int BUS_READ_PERIOD_MS = 1000;

@@ -1,4 +1,4 @@
-package PP.Framework.busInterface;
+package busInterface;
 
 public interface Gearbox_Out {
 	public void setGearTorque(double gearTorque);

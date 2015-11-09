@@ -1,4 +1,4 @@
-package PP.Framework.busInterface;
+package busInterface;
 
 public interface Public_In {
 	

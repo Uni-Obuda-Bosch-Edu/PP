@@ -1,6 +1,6 @@
 package PP.Core;
 
-public class CPS implements IPP {
+public class VerticalCPS implements IPP {
 
     @Override
     public void Signal() {

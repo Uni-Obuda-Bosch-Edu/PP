@@ -16,7 +16,7 @@ public class IntegrationTest {
     @org.junit.Before
     public void setUp() throws Exception {
         _bus = Container.getInstance();
-        _integration = new Integration(_bus,new VerticalCPS(),BUS_READ_PERIOD_MS);
+        _integration = new Integration(_bus, BUS_READ_PERIOD_MS, new VerticalCPS());
     }
 
     @org.junit.After

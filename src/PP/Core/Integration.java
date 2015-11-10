@@ -7,14 +7,14 @@ import java.util.TimerTask;
 public class Integration {
     private final int _busReadPeriodMs;
     private final Container _container;
-    private final IPP[] _ipp;
+    private final PP[] _pps;
     private final Timer _messagePump;
 
     private boolean _isConnected;
 
-    public Integration(Container container, int busReadPeriodMs, IPP... ipp) {
+    public Integration(Container container, int busReadPeriodMs, PP... pps) {
         _container = container;
-        _ipp = ipp;
+        _pps = pps;
         _messagePump = new Timer();
         _busReadPeriodMs = busReadPeriodMs;
     }
@@ -39,7 +39,7 @@ public class Integration {
     }
 
     private void Signal(){
-        for(IPP m : _ipp)
+        for(PP m : _pps)
             m.Signal();
     }
 

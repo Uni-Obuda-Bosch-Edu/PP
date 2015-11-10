@@ -1,21 +1,22 @@
 package PP.Core;
 
+import PP.Test.Mock.BusSpy;
 import UltraSound.Core.Interop.IUltraSound_Out_Ext;
 
 import java.awt.geom.Point2D;
 
 public class VerticalScanner implements IScanner {
 
-    private final IUltraSound_Out_Ext _sensor;
+    private final BusSpy _busSpy;
 
-    public VerticalScanner(IUltraSound_Out_Ext sensor) {
-
-        _sensor = sensor;
+    public VerticalScanner(BusSpy _busSpy) {
+        this._busSpy = _busSpy;
     }
 
     @Override
-    public void Signal() {
+    public void Scan(IUltraSound_Out_Ext sensor) {
         //Project o1 point
+        _busSpy.SetParkingFoundOnLeft(false);
     }
 
     @Override

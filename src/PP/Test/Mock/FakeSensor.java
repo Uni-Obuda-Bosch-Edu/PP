@@ -9,21 +9,16 @@ import java.util.Map;
 
 public class FakeSensor implements IUltraSound_Out_Ext{
 
-    private final Map<Integer,DetectedObj> _map = new HashMap<>();
-
-    @Override
-    public Map<Integer, Double> getDetectedObstackles() {
-        return null;
-    }
+    private final Map<Integer,Double> _map = new HashMap<>();
 
     @Override
     public Map<Integer, Double> getDistanceByObstackles() {
-        return null;
+        return _map;
     }
 
     public FakeSensor(List<DetectedObj> objs) {
         int id = 0;
         for (DetectedObj x : objs)
-            _map.put(++id,x);
+            _map.put(++id,0d);
     }
 }

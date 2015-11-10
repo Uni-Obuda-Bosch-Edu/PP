@@ -2,7 +2,7 @@ package PP.Test;
 
 import static org.junit.Assert.*;
 
-import PP.Core.VerticalCPS;
+import PP.Core.PP;
 import PP.Core.Integration;
 import org.junit.Test;
 import virtualDataBus.*;
@@ -16,7 +16,7 @@ public class IntegrationTest {
     @org.junit.Before
     public void setUp() throws Exception {
         _bus = Container.getInstance();
-        _integration = new Integration(_bus, BUS_READ_PERIOD_MS, new VerticalCPS());
+        _integration = new Integration(_bus, BUS_READ_PERIOD_MS, new PP());
     }
 
     @org.junit.After

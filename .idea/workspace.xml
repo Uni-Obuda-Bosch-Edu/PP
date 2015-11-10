@@ -22,34 +22,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="VerticalScannerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PP/Test/VerticalScannerTest.java">
+      <file leaf-file-name="FakeSensor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PP/Test/Mock/FakeSensor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#Generate_projected_origo#0;class#VerticalScannerTest#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IUltraSound_Out_Ext.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UltraSound/Core/Interop/IUltraSound_Out_Ext.java">
+      <file leaf-file-name="VerticalScannerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PP/Test/VerticalScannerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-              <folding />
+            <state vertical-scroll-proportion="0.36348686">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#CreateMap#0;class#VerticalScannerTest#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UltraSound_Out.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/UltraSound/Core/UltraSound/UltraSound_Out.java">
+      <file leaf-file-name="BusSpy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PP/Test/Mock/BusSpy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13980263">
-              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPP_Out.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PP/Core/IPP_Out.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -59,20 +80,24 @@
         <entry file="file://$PROJECT_DIR$/src/PP/Core/VerticalScanner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MathLib.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PP/Core/MathLib.java">
+      <file leaf-file-name="IScanner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PP/Core/IScanner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-              <folding />
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,15 +124,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Core/Integration.java" />
-        <option value="$PROJECT_DIR$/src/PP/Core/CPSTest.java" />
-        <option value="$PROJECT_DIR$/src/PP/Framework/busInterface/DriverInput_Out.java" />
-        <option value="$PROJECT_DIR$/src/PP/Framework/busInterface/Engine_Out.java" />
-        <option value="$PROJECT_DIR$/src/PP/Framework/busInterface/Gearbox_Out.java" />
         <option value="$PROJECT_DIR$/src/PP/Framework/busInterface/Public_In.java" />
         <option value="$PROJECT_DIR$/src/PP/Framework/busInterface/Wheels_Out.java" />
         <option value="$PROJECT_DIR$/src/PP/Framework/virtualDataBus/Container.java" />
-        <option value="$PROJECT_DIR$/src/PP/Core/IPP.java" />
         <option value="$PROJECT_DIR$/src/PP/Test/CPSTest.java" />
         <option value="$PROJECT_DIR$/src/PP/Core/CPS.java" />
         <option value="$PROJECT_DIR$/src/PP/Core/CPSVertical.java" />
@@ -123,8 +142,6 @@
         <option value="$PROJECT_DIR$/src/UltraSound/Core/Ext/UltraSound_Ext.java" />
         <option value="$PROJECT_DIR$/src/UltraSound/Core/Ext/UltraSound_Out_Ext.java" />
         <option value="$PROJECT_DIR$/src/UltraSound/Core/Interop/UltraSound_Out_Ext.java" />
-        <option value="$PROJECT_DIR$/src/UltraSound/Core/Interop/IUltraSound_Out_Ext.java" />
-        <option value="$PROJECT_DIR$/src/PP/Core/VerticalCPS.java" />
         <option value="$PROJECT_DIR$/src/PP/Core/SensorDirection.java" />
         <option value="$PROJECT_DIR$/src/UltraSound/Core/UltraSound/UltraSound_IN.java" />
         <option value="$PROJECT_DIR$/src/World/WorldObjectTypes.java" />
@@ -138,16 +155,24 @@
         <option value="$PROJECT_DIR$/src/PP/Test/Helpers/SensoreBuilder.java" />
         <option value="$PROJECT_DIR$/src/PP/Test/Helpers/SensorBuilder.java" />
         <option value="$PROJECT_DIR$/src/PP/Test/Mock/SensorPosition.java" />
-        <option value="$PROJECT_DIR$/src/PP/Test/Mock/DetectedObj.java" />
         <option value="$PROJECT_DIR$/src/PP/Test/Mock/SensorBuilder.java" />
         <option value="$PROJECT_DIR$/src/PP/Test/Mock/FakeSensore.java" />
-        <option value="$PROJECT_DIR$/src/PP/Test/Mock/FakeSensor.java" />
-        <option value="$PROJECT_DIR$/src/PP/Core/Integration.java" />
-        <option value="$PROJECT_DIR$/src/PP/Core/IScanner.java" />
         <option value="$PROJECT_DIR$/src/PP/Test/VerticalScannerBasicTest.java" />
         <option value="$PROJECT_DIR$/src/PP/Core/MathLibTest.java" />
         <option value="$PROJECT_DIR$/src/PP/Test/MathLibTest.java" />
         <option value="$PROJECT_DIR$/src/PP/Core/MathLib.java" />
+        <option value="$PROJECT_DIR$/src/UltraSound/Core/Interop/IUltraSound_Out_Ext.java" />
+        <option value="$PROJECT_DIR$/src/PP/Test/Mock/FakeSensor.java" />
+        <option value="$PROJECT_DIR$/src/PP/Test/Mock/DetectedObj.java" />
+        <option value="$PROJECT_DIR$/src/PP/Core/VerticalCPS.java" />
+        <option value="$PROJECT_DIR$/src/PP/Core/IPP.java" />
+        <option value="$PROJECT_DIR$/src/PP/Core/Public_In_Ext.java" />
+        <option value="$PROJECT_DIR$/src/PP/Core/IPP_In.java" />
+        <option value="$PROJECT_DIR$/src/PP/Core/Integration.java" />
+        <option value="$PROJECT_DIR$/src/PP/Test/Mock/FakeBus.java" />
+        <option value="$PROJECT_DIR$/src/PP/Core/IScanner.java" />
+        <option value="$PROJECT_DIR$/src/PP/Core/IPP_Out.java" />
+        <option value="$PROJECT_DIR$/src/PP/Test/Mock/BusSpy.java" />
         <option value="$PROJECT_DIR$/src/PP/Core/VerticalScanner.java" />
         <option value="$PROJECT_DIR$/src/PP/Test/VerticalScannerTest.java" />
       </list>
@@ -238,50 +263,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UltraSound" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="PP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -312,6 +293,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="busInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -337,7 +336,7 @@
       <recent name="C:\Work\PP\src\Framework" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MathLibTest.Rotate_point_with_90_degree">
+  <component name="RunManager" selected="JUnit.VerticalScannerTest.Measure_place_for_car">
     <configuration default="false" name="VerticalScannerTest.Generate_projected_origo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -351,58 +350,6 @@
       <option name="PACKAGE_NAME" value="PP.Test" />
       <option name="MAIN_CLASS_NAME" value="PP.Test.VerticalScannerTest" />
       <option name="METHOD_NAME" value="Generate_projected_origo" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="MathLibTest.Create_vector_without_multiplier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="PP.Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="PP" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="PP.Test" />
-      <option name="MAIN_CLASS_NAME" value="PP.Test.MathLibTest" />
-      <option name="METHOD_NAME" value="Create_vector_without_multiplier" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="MathLibTest.Create_vector_with_multiplier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="PP.Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="PP" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="PP.Test" />
-      <option name="MAIN_CLASS_NAME" value="PP.Test.MathLibTest" />
-      <option name="METHOD_NAME" value="Create_vector_with_multiplier" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -455,6 +402,58 @@
       <option name="PACKAGE_NAME" value="PP.Test" />
       <option name="MAIN_CLASS_NAME" value="PP.Test.MathLibTest" />
       <option name="METHOD_NAME" value="Rotate_point_with_90_degree" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="MathLibTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PP.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="PP" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="PP.Test" />
+      <option name="MAIN_CLASS_NAME" value="PP.Test.MathLibTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerticalScannerTest.Measure_place_for_car" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PP.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="PP" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="PP.Test" />
+      <option name="MAIN_CLASS_NAME" value="PP.Test.VerticalScannerTest" />
+      <option name="METHOD_NAME" value="Measure_place_for_car" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -576,18 +575,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.VerticalScannerTest.Generate_projected_origo" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MathLibTest.Create_vector_without_multiplier" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MathLibTest.Create_vector_with_multiplier" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MathLibTest.Transform_point_with_vector" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MathLibTest.Rotate_point_with_90_degree" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MathLibTest.Transform_point_with_vector" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MathLibTest.Rotate_point_with_90_degree" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MathLibTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.VerticalScannerTest.Measure_place_for_car" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MathLibTest.Rotate_point_with_90_degree" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MathLibTest.Transform_point_with_vector" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.VerticalScannerTest.Generate_projected_origo" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MathLibTest.Create_vector_with_multiplier" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MathLibTest.Create_vector_without_multiplier" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.VerticalScannerTest.Measure_place_for_car" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.VerticalScannerTest.Generate_projected_origo" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MathLibTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MathLibTest.Rotate_point_with_90_degree" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MathLibTest.Transform_point_with_vector" />
       </list>
     </recent_temporary>
   </component>
@@ -656,7 +655,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PP/Core/VerticalScanner.java</url>
-          <line>27</line>
+          <line>28</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -686,7 +685,7 @@
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#Generate_projected_origo#0;class#VerticalScannerTest#0" expanded="false" />
+            <element signature="method#CreateMap#0;class#VerticalScannerTest#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -697,6 +696,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -717,7 +718,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#Generate_projected_origo#0;class#VerticalScannerTest#0" expanded="false" />
+            <element signature="method#CreateMap#0;class#VerticalScannerTest#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -728,11 +729,13 @@
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PP/Core/IPP.java">
+    <entry file="file://$PROJECT_DIR$/src/PP/Core/IPP_Out.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
@@ -767,101 +770,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/busInterface/Public_In.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/virtualDataBus/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5805921">
-          <caret line="338" column="22" selection-start-line="338" selection-start-column="22" selection-end-line="338" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/busInterface/DriverInput_Out.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PP/Core/IPP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05592105">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/busInterface/Wheels_Out.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16776316">
           <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/World/Interop/IWorldObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46867168">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/World/WorldObjectTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2556391">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UltraSound/Core/UltraSound/UltraSound_IN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42606518">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PP/Test/Mock/DetectedObj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PP/Core/Integration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6644737">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PP/Core/VerticalCPS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12781955">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PP/Core/IScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2982456">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PP/Test/Mock/FakeSensor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -881,18 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PP/Test/MathLibTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40350878">
-          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Create_vector_without_multiplier#0;class#MathLibTest#0" expanded="false" />
-            <element signature="method#Create_vector_with_multiplier#0;class#MathLibTest#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PP/Core/MathLib.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -901,10 +801,174 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/UltraSound/Core/Interop/IUltraSound_Out_Ext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05592105">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/World/WorldObjectTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UltraSound/Core/UltraSound/UltraSound_Out.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UltraSound/Core/UltraSound/UltraSound_IN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PP/Test/MathLibTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="9" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Create_vector_without_multiplier#0;class#MathLibTest#0" expanded="false" />
+            <element signature="method#Create_vector_with_multiplier#0;class#MathLibTest#0" expanded="false" />
+            <element signature="method#Transform_point_with_vector#0;class#MathLibTest#0" expanded="false" />
+            <element signature="method#Rotate_point_with_90_degree#0;class#MathLibTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PP/Test/Mock/DetectedObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/virtualDataBus/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1118421">
+          <caret line="4" column="92" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/busInterface/Public_In.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05592105">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/World/Interop/IWorldObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16776316">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/busInterface/DriverInput_Out.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05592105">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PP/Core/IPP_In.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PP/Core/PP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PP/Core/Integration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6430921">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PP/Core/IScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PP/Core/IPP_Out.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PP/Core/VerticalScanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PP/Test/Mock/BusSpy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PP/Test/Mock/FakeSensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -913,28 +977,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PP/Test/VerticalScannerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.36348686">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#Generate_projected_origo#0;class#VerticalScannerTest#0" expanded="false" />
+            <element signature="method#CreateMap#0;class#VerticalScannerTest#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UltraSound/Core/Interop/IUltraSound_Out_Ext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UltraSound/Core/UltraSound/UltraSound_Out.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13980263">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
